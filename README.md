@@ -1,4 +1,4 @@
-# 卡密登录系统 - Vue Uniapp 项目
+# 小白验证Vue3卡密登录系统 - Vue Uniapp 项目
 
 ## 项目简介
 小白验证xbzhan.com
